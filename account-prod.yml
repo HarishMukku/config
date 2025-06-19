@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to account related to production API's"
+  message: "Welcome to account related production API's"
   contactDetails:
     name: "Harish -ProdLead"
     email: "{cipher}96824c9d77767420ea84ae3c79dfbaf1ca1c18e99287043c7d7f2b0d98dc1edd"
