@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to loan related prod API's"
+  message: "Welcome to loan related production API's"
   contactDetails:
     name: "Harish -ProdLead"
     email: " hari@gamil.com"
