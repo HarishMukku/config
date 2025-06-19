@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to loans related local API's"
+  contactDetails:
+    name: "Harish"
+    email: " hari@gamil.com"
+  onCallSupport:
+    - (8898989898)
+    - (7896767869)      

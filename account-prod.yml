@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to account related prod API's"
+  contactDetails:
+    name: "Harish -ProdLead"
+    email: " hari@gamil.com"
+  onCallSupport:
+    - (8898989898)
+    - (7896767869)

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to cards related prod API's"
+  contactDetails:
+    name: "Harish -ProdLead"
+    email: " haris@gamil.com"
+  onCallSupport:
+    - (8898989898)
+    - (7896767869)
